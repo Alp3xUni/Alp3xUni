@@ -28,7 +28,7 @@ I am a Software Engenieer Student <img src="https://media.giphy.com/media/WUlplc
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com/?user=Alp3xUni)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Alp3xUni)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alp3xUni&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
