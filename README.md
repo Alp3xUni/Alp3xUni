@@ -10,14 +10,6 @@ I am a Software Engenieer Student <img src="https://media.giphy.com/media/WUlplc
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-  <style>
-    Img {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-      }
-  </style>
   <div class="Img">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
