@@ -1,6 +1,6 @@
-- >  Hi, I’m @Alp3xUni
-- >  I’m interested in GameDev
-- >  I’m currently learning Haskell, Assembly Arm, Python
+-  >  Hi, I’m @Alp3xUni
+-  >  I’m interested in GameDev
+-  >  I’m currently learning Haskell, Assembly Arm, Python
 
           ??                          ~~
           ?????                    ~~~~~
