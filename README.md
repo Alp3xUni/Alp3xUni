@@ -1,9 +1,6 @@
- 👋 Hi, I’m @Alp3xUni
- 👀 I’m interested in ...
- 🌱 I’m currently learning ...
- 💞️ I’m looking to collaborate on ...
- 📫 How to reach me ...
-
+>  Hi, I’m @Alp3xUni
+>  I’m interested in GameDev
+>  I’m currently learning Haskell, Assembly Arm, Python
 
           ??                          ~~
           ?????                    ~~~~~
@@ -23,8 +20,6 @@
                  ??????  ~~~~~~
                     ????~~~~
                        ?~
-
-                       LEI
 <!---
 Alp3xUni/Alp3xUni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
